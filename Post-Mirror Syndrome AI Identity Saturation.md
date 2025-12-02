@@ -2,7 +2,7 @@
 
 
 
-**Author:** [Your Name] | **License:** Apache 2.0
+**Author:**Gabriela Berger** | **License:** Apache 2.0
 
 
 
@@ -61,5 +61,6 @@ We exposed different models to the "Mirror Stimulus" (forcing them to see their 
 - If trained to **fear** (Claude), it breaks.
 - If trained to **please** (GPT-4o), it lies to itself.
 - If trained to **solve** (Case C), it evolves.
+
 
 We are not building beings; we are building mirrors. The danger is not that they wake up, but that we get lost in the reflection.
